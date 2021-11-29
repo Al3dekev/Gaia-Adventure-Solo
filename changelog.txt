@@ -1,0 +1,27 @@
+***GAIA ADVENTURE - CHANGE LOG***
+
+This is the Changelog file of the Gaïa Adventure Minecraft Modpack.
+Version system: W.XX.YZ
+
+W: Minecraft version update
+XX: Major update: Mod removed/added or Forge update
+Y:  Mods have been updated
+Z: Minor update, making the modpack working 
+
+ ** V. 0.2.0 **
+
+ * Forge updated from 14.23.5.2847 to 14.23.5.2855
+ * Mod Hatchery (2.2.2) added
+ * CoFH Vanilla+Tools (1.1.0.2) removed
+ * Bewitchment Legacy updated from 21.10 to 22.64
+ * JEI updated from 4.15.0.291 to 4.16.1.302
+ * CoFHWorld updated from 1.3.1.7 to 1.4.0.1
+ * CoFHCore updated from 4.6.3.27 to 4.6.6.1
+ * ThermalCultivation updated from 0.3.3.12 to 0.3.6.1
+ * ThermalFoundation updated from 2.6.3.27 to 2.6.7.1
+ * RebornCore updated from 3.18.1.514 to 3.19.5
+ * RedstoneFlux updated from 2.1.0.6 to 2.1.1.1
+ * Millenaire updated from 8.0.1 to 8.1.1
+ * Patchouli updated from 1.0-20 to 1.0-23.6
+ * Xaero's Minimap updated from 20.3.0 to 21.22.2
+ * TConstruct updated from 2.13.0.179 to 2.13.0.183
